@@ -1,14 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # 
 
 \# 🕹️ Artikel Defense
 
 
 
-A retro cyberpunk shooter game for learning German articles (der, die, das), 
+A retro cyberpunk shooter game for learning German articles (der, die, das),
 
 plurals, and verb conjugations — built because flashcard apps were too boring.
 
@@ -16,7 +12,7 @@ plurals, and verb conjugations — built because flashcard apps were too boring.
 
 \## Why I built this
 
-Moving to Switzerland meant learning German fast. Instead of Duolingo, 
+Moving to Switzerland meant learning German fast. Instead of Duolingo,
 
 I built a game where falling words shoot back.
 
@@ -42,7 +38,7 @@ I built a game where falling words shoot back.
 
 \## Tech Stack
 
-React 19 · TypeScript · Firebase · Tailwind CSS · Framer Motion · Vite  
+React 19 · TypeScript · Firebase · Tailwind CSS · Framer Motion · Vite
 
 AI-assisted development via Google AI Studio
 
