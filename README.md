@@ -38,7 +38,7 @@ I built a game where falling words shoot back.
 
 \## Tech Stack
 
-React 19 · TypeScript · Firebase · Tailwind CSS · Framer Motion 
+React 19 · TypeScript · Firebase · Tailwind CSS · Framer Motion
 
 
 
